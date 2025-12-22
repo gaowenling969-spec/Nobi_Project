@@ -58,3 +58,4 @@ font-weight: bold;}
   color: black;
   font-weight: bold;
 }
+.nav a{ min-width: 120px; }
